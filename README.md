@@ -15,3 +15,6 @@ guest:guest@localhost:5672 adalah format URL yang digunakan untuk menghubungkan 
 #### Simulating slow subscriber
 ![alt text](image-1.png)
 -> Terdapat hingga 56 antrian di komputer saya. Saya menjalankan publisher sekitar 12 kali, dan pesan-pesan dipublikasikan terlalu cepat sehingga subscriber tidak bisa mengikuti untuk menerima karena adanya jeda (sleep). Akibatnya, RabbitMQ menyimpan pesan-pesan tersebut dalam antrian.
+
+![alt text](image.png)
+-> Saya menjalankan tiga instance subscriber sekaligus, dan mereka saling bersaing untuk menerima pesan. Dengan metode round-robin default di RabbitMQ, setiap subscriber menerima sepertiga pesan. Meskipun antrian cepat habis, masalah muncul jika kita ingin semua subscriber menerima jumlah pesan yang sama. Solusinya adalah dengan mengganti metode round-robin menjadi fanout.
