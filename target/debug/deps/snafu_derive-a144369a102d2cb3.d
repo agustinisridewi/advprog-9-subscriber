@@ -1,0 +1,9 @@
+/Users/agustinisridewi/Documents/COLLEGE/TERM 4/ADPRO/tutorial9/subscriber/target/debug/deps/libsnafu_derive-a144369a102d2cb3.dylib: /Users/agustinisridewi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.7.5/src/lib.rs /Users/agustinisridewi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.7.5/src/parse.rs /Users/agustinisridewi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.7.5/src/shared.rs /Users/agustinisridewi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.7.5/src/report.rs /Users/agustinisridewi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.7.5/src/report/no_async.rs
+
+/Users/agustinisridewi/Documents/COLLEGE/TERM 4/ADPRO/tutorial9/subscriber/target/debug/deps/snafu_derive-a144369a102d2cb3.d: /Users/agustinisridewi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.7.5/src/lib.rs /Users/agustinisridewi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.7.5/src/parse.rs /Users/agustinisridewi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.7.5/src/shared.rs /Users/agustinisridewi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.7.5/src/report.rs /Users/agustinisridewi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.7.5/src/report/no_async.rs
+
+/Users/agustinisridewi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.7.5/src/lib.rs:
+/Users/agustinisridewi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.7.5/src/parse.rs:
+/Users/agustinisridewi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.7.5/src/shared.rs:
+/Users/agustinisridewi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.7.5/src/report.rs:
+/Users/agustinisridewi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.7.5/src/report/no_async.rs:
